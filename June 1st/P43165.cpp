@@ -8,7 +8,6 @@
 using namespace std;
 vector<int> Nums;
 int Answer, N, T;
-bool Check[21];
 
 void dfs(int i = 0, int sum = 0) {
     if (i == N) {
@@ -17,12 +16,8 @@ void dfs(int i = 0, int sum = 0) {
         }
         return;
     }
-    if(!Check[i]) {
-        Check[i] = true;
-        dfs(i + 1, sum + Nums[i]);  // 해당 인덱스의 값을 더하는 경우
-        dfs(i + 1, sum - Nums[i]);  // 해당 인덱스의 값을 빼는 경우
-        Check[i] = false;
-    }
+    dfs(i + 1, sum + Nums[i]);  // 해당 인덱스의 값을 더하는 경우
+    dfs(i + 1, sum - Nums[i]);  // 해당 인덱스의 값을 빼는 경우
 }
 
 int solution(vector<int> numbers, int target) {
