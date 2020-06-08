@@ -4,9 +4,8 @@
 #include <cmath>
 using namespace std;
 
-int N, M;
+int N, M, Answer;
 bool isBroken[10];
-int Answer;
 
 // 고장난 버튼이면 0을 리턴하고, 가능한 경우면 자릿수 리턴
 int check(int n) {
@@ -54,4 +53,4 @@ int main() {
 
 	cout << Answer << endl;
 	return 0;
-}
+} 
