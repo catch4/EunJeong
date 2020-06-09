@@ -12,7 +12,7 @@ int N, M, Start, End;
 vector<pair<int, int>> Adj[1001];	// 인접 리스트. <연결된 정점, 거리>
 
 int djikstra(int start = Start, int end = End) {
-	vector<int> dist(N + 1, INF); // start 정점으로부터의 거리 최솟값(INF로 초기화)
+	vector<int> dist(N + 1, INF);	 // start 정점으로부터의 거리 최솟값(INF로 초기화)
 	dist[start] = 0;
 	priority_queue<pair<int, int>> pq;	// 우선순위 큐 <-거리, 정점> : 거리가 작은 것부터 정렬하기 위해 음수값을 넣어준다
 	pq.push({ 0, start });
@@ -37,7 +37,7 @@ int djikstra(int start = Start, int end = End) {
 }
 
 int main() {
-  // 입력량 많음
+	// 입력량 많음
 	ios::sync_with_stdio(false);
 	cin.tie(0);
 
