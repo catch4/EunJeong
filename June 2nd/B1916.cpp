@@ -37,7 +37,7 @@ int djikstra(int start = Start, int end = End) {
 }
 
 int main() {
-	// 입력량 많음
+	// 입력량이 많으므로 시간 줄이기
 	ios::sync_with_stdio(false);
 	cin.tie(0);
 
