@@ -8,7 +8,7 @@
 // 즉, 우선순위 큐처럼 매번 정렬, pop & push, 복사 등의 과정 없이 구현할 수 있음을 알 수 있다.
 
 // (1) vector로 sort하는 방법과 (2) deque를 사용하는 방법으로 풀었는데 둘 다 시간초과 없이 가능했다.
-// 아래는 deque를 사용한 소스코드이다.
+// 아래는 deque를 사용한 소스코드이다. 제일 밑에 시간초과 난 우선순위 큐 코드가 있다.
 
 #include <iostream>
 #include <queue>
@@ -111,3 +111,27 @@ int main() {
 	cout << Answer() << endl;
 	return 0;
 }
+
+
+// 시간초과 났던 우선순위 큐 코드 (55 ~ 78줄)
+// 구현 아이디어는 똑같지만 push, pop 뿐만 아니라 tmp를 복사하는 데 시간이 많이 소요되었을 것 같다.
+// for (int i = 0; i < N; i++) {
+// 	for (int j = 0; j < N; j++) {
+// 		priority_queue<int> tmp;
+// 		while (!Trees[i][j].empty() && 0 <= Map[i][j] + Trees[i][j].top()) {
+// 			int curr = -Trees[i][j].top();
+// 			Map[i][j] -= curr;
+// 			tmp.push(-1 - curr);
+// 			if ((curr + 1) % 5 == 0)
+// 				add.push({ i, j });
+// 			Trees[i][j].pop();
+// 		}
+// 		while (!Trees[i][j].empty()) {
+// 			int curr = -Trees[i][j].top();
+// 			Map[i][j] += (curr / 2);
+// 			Trees[i][j].pop();
+// 		}
+// 		Map[i][j] += A[i][j];
+// 		Trees[i][j] = tmp;
+// 	}
+// }
