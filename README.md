@@ -12,9 +12,9 @@
 [Silver 2] 2504. [괄호의 값](https://www.acmicpc.net/problem/2504) ㅡ [풀이](June%202nd/B2504.cpp)<br>
 [Gold 5] 1916. [최소비용 구하기](https://www.acmicpc.net/problem/1916) ㅡ [풀이](June%202nd/B1916.cpp)<br>
 [Gold 4] 16235. [나무 재테크](https://www.acmicpc.net/problem/16235) ㅡ [풀이](June%202nd/B16235.cpp)<br>
-[Gold 4] 2661. [좋은수열](https://www.acmicpc.net/problem/2661)<br>
-[Gold 3] 2351. [반도체 설계](https://www.acmicpc.net/problem/2351)<br>
-[Gold 1] 15898. [피아의 아틀리에 \~신비한 대회의 연금술사\~](https://www.acmicpc.net/problem/15898)<br>
+[Gold 4] 2661. [좋은수열](https://www.acmicpc.net/problem/2661)ㅡ [풀이](June%202nd/B2661.cpp)<br>
+[Gold 3] 2351. [반도체 설계](https://www.acmicpc.net/problem/2351)ㅡ [풀이](June%202nd/B2351.cpp)<br>
+[Gold 1] 15898. [피아의 아틀리에 \~신비한 대회의 연금술사\~](https://www.acmicpc.net/problem/15898)ㅡ [풀이](June%202nd/B15898.cpp)<br>
 
 <br>
 
