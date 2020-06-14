@@ -7,7 +7,7 @@
 ## 6월 2주차
 #### 프로그래머스
 [Level 2] 17679. [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) ㅡ [풀이](June%202nd/P17679.cpp)<br>
-[Level 2] 17686. [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)
+[Level 2] 17686. [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) ㅡ [풀이](June%202nd/P17686.cpp)
 #### 백준
 [Silver 2] 2504. [괄호의 값](https://www.acmicpc.net/problem/2504) ㅡ [풀이](June%202nd/B2504.cpp)<br>
 [Gold 5] 1916. [최소비용 구하기](https://www.acmicpc.net/problem/1916) ㅡ [풀이](June%202nd/B1916.cpp)<br>
