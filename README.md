@@ -35,8 +35,8 @@
 
 | 난이도  | 문제                                                         | 풀이                                | 비고 |
 | ------- | ------------------------------------------------------------ | ----------------------------------- | ---- |
-| Level 2 | [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | [P17679.cpp](June%202nd/P17679.cpp) | ✔    |
-| Leve 2  | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | [P17686.py](June%202nd/P17686.py)   | ✔    |
+| Level 2 | [[1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | [P17679.cpp](June%202nd/P17679.cpp) | ✔    |
+| Leve 2  | [[3차] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | [P17686.py](June%202nd/P17686.py)   | ✔    |
 
 ### 백준
 
@@ -57,8 +57,8 @@
 
 | 난이도  | 문제                                                         | 풀이                                | 비고 |
 | ------- | ------------------------------------------------------------ | ----------------------------------- | ---- |
-| Level 2 | [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [P43165.cpp](June%201st/P43165.cpp) | ✔    |
-| Level 3 | [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) |                                     |      |
+| Level 2 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [P43165.cpp](June%201st/P43165.cpp) | ✔    |
+| Level 3 | [[1차] 추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) |                                     |      |
 | Level 3 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | [P42895.cpp](June%201st/P42895.cpp) | ✔    |
 
 ### 백준
