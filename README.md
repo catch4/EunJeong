@@ -3,11 +3,57 @@
 하루에 한 문제, 매주 총 7문제 풀기 (백준 6문제 + 프로그래머스 1문제)<br>
 문제는 백준 그룹에서 확인! ☞ https://www.acmicpc.net/group/8185
 
+<br>
+
+## 6월 5주차 - 2020.06.30
+
+### 프로그래머스
+
+| 난이도  | 문제                                                         | 풀이                                                         |      | 비고                  |
+| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | --------------------- |
+| Level 2 | [라면공장](https://programmers.co.kr/learn/courses/30/lessons/42629) | [P42629.cpp](https://github.com/catch4/EunJeong/blob/master/June 5th/P42629.cpp) | ✔    | Priority Queue (Heap) |
+| Level 2 | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) |                                                              |      |                       |
+
+### 백준
+
+| 난이도   | 문제                                                | 풀이 |      | 비고 |
+| -------- | --------------------------------------------------- | ---- | ---- | ---- |
+| Silver 2 | [공유기 설치](https://www.acmicpc.net/problem/2110) |      |      |      |
+| Gold 5   | [연구소](https://www.acmicpc.net/problem/14502)     |      |      |      |
+| Gold 5   | [인구 이동](https://www.acmicpc.net/problem/16234)  |      |      |      |
+| Gold 4   | [행성 연결](https://www.acmicpc.net/problem/16398)  |      |      |      |
+| Gold 3   | [경사로](https://www.acmicpc.net/problem/14890)     |      |      |      |
+| Gold 1   | [고층 빌딩](https://www.acmicpc.net/problem/1328)   |      |      |      |
+
+
 
 
 <br>
 
-## 6월 3주차
+## 6월 4주차 - 2020.06.22
+
+### 프로그래머스
+
+| 난이도  | 문제                                                         | 풀이                                                         |      | 비고 |
+| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| Level 2 | [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835) |                                                              | ❌    |      |
+| Level 2 | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | [P42890.cpp](https://github.com/catch4/EunJeong/blob/master/June 4th/P42890.cpp) | 🔎    |      |
+
+### 백준
+
+| 난이도   | 문제                                                   | 풀이                                                         |      | 비고                    |
+| -------- | ------------------------------------------------------ | ------------------------------------------------------------ | ---- | ----------------------- |
+| Silver 1 | [미로 탐색](https://www.acmicpc.net/problem/2178)      | [B2178.cpp](https://github.com/catch4/EunJeong/blob/master/June 4th/B2178.cpp) | ✔    | BFS                     |
+| Gold 5   | [사다리 조작](https://www.acmicpc.net/problem/15684)   | [B4485.cpp](https://github.com/catch4/EunJeong/blob/master/June 4th/B4485.cpp) | ✔    | DFS + Brute Force       |
+| Gold 3   | [괄호 추가하기](https://www.acmicpc.net/problem/16637) | [B1516.cpp](https://github.com/catch4/EunJeong/blob/master/June 4th/B1516.cpp) | 🔎    | DFS + Brute Force       |
+| Gold 3   | [아맞다우산](https://www.acmicpc.net/problem/17244)    | [B17244.cpp](https://github.com/catch4/EunJeong/blob/master/June 4th/B17244.cpp) | ✔    | BFS + DFS (Permutation) |
+| Gold 2   | [구슬 탈출 2](https://www.acmicpc.net/problem/13460)   |                                                              |      |                         |
+| Gold 2   | [친구 네트워크](https://www.acmicpc.net/problem/4195)  |                                                              |      |                         |
+
+
+<br>
+
+## 6월 3주차 - 2020.06.15
 
 ### 프로그래머스
 
@@ -29,7 +75,7 @@
 
 <br>
 
-## 6월 2주차
+## 6월 2주차 - 2020.06.08
 
 #### 프로그래머스
 
@@ -51,7 +97,7 @@
 
 <br>
 
-## 6월 1주차
+## 6월 1주차 - 2020.06.01
 
 #### 프로그래머스
 
