@@ -9,10 +9,10 @@
 
 ### 프로그래머스
 
-| 난이도  | 문제                                                         | 풀이                                                         |      | 비고                  |
-| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | --------------------- |
-| Level 2 | [라면공장](https://programmers.co.kr/learn/courses/30/lessons/42629) | [P42629.cpp](https://github.com/catch4/EunJeong/blob/master/June 5th/P42629.cpp) | ✔    | Priority Queue (Heap) |
-| Level 2 | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) |                                                              |      |                       |
+| 난이도  | 문제                                                         | 풀이                                |      | 비고                  |
+| ------- | ------------------------------------------------------------ | ----------------------------------- | ---- | --------------------- |
+| Level 2 | [라면공장](https://programmers.co.kr/learn/courses/30/lessons/42629) | [P42629.cpp](June%205th/P42629.cpp) | ✔    | Priority Queue (Heap) |
+| Level 2 | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) |                      |      |                       |
 
 ### 백준
 
@@ -27,28 +27,27 @@
 
 
 
-
 <br>
 
 ## 6월 4주차 - 2020.06.22
 
 ### 프로그래머스
 
-| 난이도  | 문제                                                         | 풀이                                                         |      | 비고 |
-| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
-| Level 2 | [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835) |                                                              | ❌    |      |
-| Level 2 | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | [P42890.cpp](https://github.com/catch4/EunJeong/blob/master/June 4th/P42890.cpp) | 🔎    |      |
+| 난이도  | 문제                                                         | 풀이                                |      | 비고 |
+| ------- | ------------------------------------------------------------ | ----------------------------------- | ---- | ---- |
+| Level 2 | [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835) |                                     | ❌    |      |
+| Level 2 | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | [P42890.cpp](June%204th/P42890.cpp) | 🔎    |      |
 
 ### 백준
 
-| 난이도   | 문제                                                   | 풀이                                                         |      | 비고                    |
-| -------- | ------------------------------------------------------ | ------------------------------------------------------------ | ---- | ----------------------- |
-| Silver 1 | [미로 탐색](https://www.acmicpc.net/problem/2178)      | [B2178.cpp](https://github.com/catch4/EunJeong/blob/master/June 4th/B2178.cpp) | ✔    | BFS                     |
-| Gold 5   | [사다리 조작](https://www.acmicpc.net/problem/15684)   | [B4485.cpp](https://github.com/catch4/EunJeong/blob/master/June 4th/B4485.cpp) | ✔    | DFS + Brute Force       |
-| Gold 3   | [괄호 추가하기](https://www.acmicpc.net/problem/16637) | [B1516.cpp](https://github.com/catch4/EunJeong/blob/master/June 4th/B1516.cpp) | 🔎    | DFS + Brute Force       |
-| Gold 3   | [아맞다우산](https://www.acmicpc.net/problem/17244)    | [B17244.cpp](https://github.com/catch4/EunJeong/blob/master/June 4th/B17244.cpp) | ✔    | BFS + DFS (Permutation) |
-| Gold 2   | [구슬 탈출 2](https://www.acmicpc.net/problem/13460)   |                                                              |      |                         |
-| Gold 2   | [친구 네트워크](https://www.acmicpc.net/problem/4195)  |                                                              |      |                         |
+| 난이도   | 문제                                                   | 풀이                                |      | 비고                    |
+| -------- | ------------------------------------------------------ | ----------------------------------- | ---- | ----------------------- |
+| Silver 1 | [미로 탐색](https://www.acmicpc.net/problem/2178)      | [B2178.cpp](June%204th/B2178.cpp)   | ✔    | BFS                     |
+| Gold 5   | [사다리 조작](https://www.acmicpc.net/problem/15684)   | [B4485.cpp](June%204th/B4485.cpp)   | ✔    | DFS + Brute Force       |
+| Gold 3   | [괄호 추가하기](https://www.acmicpc.net/problem/16637) | [B1516.cpp](June%204th/B1516.cpp)   | 🔎    | DFS + Brute Force       |
+| Gold 3   | [아맞다우산](https://www.acmicpc.net/problem/17244)    | [B17244.cpp](June%204th/B17244.cpp) | ✔    | BFS + DFS (Permutation) |
+| Gold 2   | [구슬 탈출 2](https://www.acmicpc.net/problem/13460)   |                                     |      |                         |
+| Gold 2   | [친구 네트워크](https://www.acmicpc.net/problem/4195)  |                                     |      |                         |
 
 
 <br>
@@ -116,4 +115,3 @@
 | Gold 4 | [중량제한](https://www.acmicpc.net/problem/1939)      | [B1939.cpp](June%201st/B1939.cpp)   | ✔    | Binary Search + BFS |
 | Gold 4 | [돌다리 건너기](https://www.acmicpc.net/problem/2602) | [B2602.cpp](June%201st/B2602.cpp)   | ✔    | DFS + Memoization   |
 | Gold 1 | [날카로운 눈](https://www.acmicpc.net/problem/1637)   | [B1637.cpp](June%201st/B1637.cpp)   | 🔎    | Binary Search       |
-
