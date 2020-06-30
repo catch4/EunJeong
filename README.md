@@ -12,18 +12,18 @@
 | 난이도  | 문제                                                         | 풀이                                |      | 비고                  |
 | ------- | ------------------------------------------------------------ | ----------------------------------- | ---- | --------------------- |
 | Level 2 | [라면공장](https://programmers.co.kr/learn/courses/30/lessons/42629) | [P42629.cpp](June%205th/P42629.cpp) | ✔    | Priority Queue (Heap) |
-| Level 2 | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) |                      |      |                       |
+| Level 2 | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) |                                     |      |                       |
 
 ### 백준
 
-| 난이도   | 문제                                                | 풀이 |      | 비고 |
-| -------- | --------------------------------------------------- | ---- | ---- | ---- |
-| Silver 2 | [공유기 설치](https://www.acmicpc.net/problem/2110) |      |      |      |
-| Gold 5   | [연구소](https://www.acmicpc.net/problem/14502)     |      |      |      |
-| Gold 5   | [인구 이동](https://www.acmicpc.net/problem/16234)  |      |      |      |
-| Gold 4   | [행성 연결](https://www.acmicpc.net/problem/16398)  |      |      |      |
-| Gold 3   | [경사로](https://www.acmicpc.net/problem/14890)     |      |      |      |
-| Gold 1   | [고층 빌딩](https://www.acmicpc.net/problem/1328)   |      |      |      |
+| 난이도   | 문제                                                | 풀이                                |      | 비고 |
+| -------- | --------------------------------------------------- | ----------------------------------- | ---- | ---- |
+| Silver 2 | [공유기 설치](https://www.acmicpc.net/problem/2110) | [B2110.cpp](June%205th/B2110.cpp)   |      |      |
+| Gold 5   | [연구소](https://www.acmicpc.net/problem/14502)     | [B14502.cpp](June%205th/B14502.cpp) |      |      |
+| Gold 5   | [인구 이동](https://www.acmicpc.net/problem/16234)  | [B16234.cpp](June%205th/B16234.cpp) |      |      |
+| Gold 4   | [행성 연결](https://www.acmicpc.net/problem/16398)  | [B16398.cpp](June%205th/B16398.cpp) |      |      |
+| Gold 3   | [경사로](https://www.acmicpc.net/problem/14890)     | [B14890.cpp](June%205th/B14890.cpp) |      |      |
+| Gold 1   | [고층 빌딩](https://www.acmicpc.net/problem/1328)   | [B1328.cpp](June%205th/B1328.cpp)   |      |      |
 
 
 
