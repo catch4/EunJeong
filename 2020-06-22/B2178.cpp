@@ -47,4 +47,4 @@ int main() {
 	bfs();
 	cout << Check[N - 1][M - 1] << endl;
 	return 0;
-}
+} 
