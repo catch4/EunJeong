@@ -41,4 +41,4 @@ int main() {
 
 	cout << dfs(DEVIL) + dfs(ANGEL) << endl;
 	return 0;
-}
+} 
