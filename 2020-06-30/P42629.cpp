@@ -1,8 +1,7 @@
 // https://programmers.co.kr/learn/courses/30/lessons/42629
 
-// added testcases
-// # 1: 3, [1], [1], 2 - Answer 0
-// # 2: 4, [1, 2, 3, 4], [10, 40, 20, 30], [100] - Answer 4
+// # testcase 1: 3, [1], [1], 2 - Answer 0
+// # testcase 2: 4, [1, 2, 3, 4], [10, 40, 20, 30], [100] - Answer 4
 
 // 테스트 11만 틀리길래 질문하기를 확인하고 2번 testcase를 추가해 확인했다.
 // 알고 보니 vector를 끝까지 다 도는 경우를 확인하지 않아서
