@@ -43,4 +43,4 @@ int main() {
 		cout << left << " " << calc(left) - calc(left - 1) << endl;
 
 	return 0;
-}
+} 
