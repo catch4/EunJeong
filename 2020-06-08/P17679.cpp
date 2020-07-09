@@ -66,4 +66,4 @@ int solution(int m, int n, vector<string> board) {
         answer += blocks;
     }
     return answer;
-}
+} 
