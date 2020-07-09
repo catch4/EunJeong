@@ -5,6 +5,26 @@
 
 <br>
 
+## 7월 1주차 - 2020.07.08
+
+### 프로그래머스
+
+| 난이도  | 문제                                                         | 풀이                                |      | 비고        |
+| ------- | ------------------------------------------------------------ | ----------------------------------- | ---- | ----------- |
+| Level 2 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | [P42890.cpp](2020-07-08/P42890.cpp) | ✔    | Brute Force |
+
+### 백준
+
+| 난이도     | 문제                                                         | 풀이 |      | 비고 |
+| ---------- | ------------------------------------------------------------ | ---- | ---- | ---- |
+| Gold 5     | [개똥벌레](https://www.acmicpc.net/problem/3020)             |      |      |      |
+| Gold 3     | [저울](https://www.acmicpc.net/problem/10159)                |      |      |      |
+| Gold 3     | [부분합](https://www.acmicpc.net/problem/1806)               |      |      |      |
+| Gold 1     | [그림교환](https://www.acmicpc.net/problem/1029)             |      |      |      |
+| Platinum 5 | [히스토그램에서 가장 큰 사각형](https://www.acmicpc.net/problem/6549) |      |      |      |
+
+<br>
+
 ## 6월 5주차 - 2020.06.30
 
 ### 프로그래머스
@@ -12,18 +32,18 @@
 | 난이도  | 문제                                                         | 풀이                                |      | 비고                  |
 | ------- | ------------------------------------------------------------ | ----------------------------------- | ---- | --------------------- |
 | Level 2 | [라면공장](https://programmers.co.kr/learn/courses/30/lessons/42629) | [P42629.cpp](2020-06-30/P42629.cpp) | ✔    | Priority Queue (Heap) |
-| Level 2 | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) |                                     |      |                       |
+| Level 2 | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) |                                     | ❌    |                       |
 
 ### 백준
 
-| 난이도   | 문제                                                | 풀이 |      | 비고 |
-| -------- | --------------------------------------------------- | ---- | ---- | ---- |
-| Silver 2 | [공유기 설치](https://www.acmicpc.net/problem/2110) |      |      |      |
-| Gold 5   | [연구소](https://www.acmicpc.net/problem/14502)     |      |      |      |
-| Gold 5   | [인구 이동](https://www.acmicpc.net/problem/16234)  |      |      |      |
-| Gold 4   | [행성 연결](https://www.acmicpc.net/problem/16398)  |      |      |      |
-| Gold 3   | [경사로](https://www.acmicpc.net/problem/14890)     |      |      |      |
-| Gold 1   | [고층 빌딩](https://www.acmicpc.net/problem/1328)   |      |      |      |
+| 난이도   | 문제                                                | 풀이                                |      | 비고              |
+| -------- | --------------------------------------------------- | ----------------------------------- | ---- | ----------------- |
+| Silver 2 | [공유기 설치](https://www.acmicpc.net/problem/2110) | [B2110.cpp](2020-06-30/B2110.cpp)   | ✔    | Binary Search     |
+| Gold 5   | [연구소](https://www.acmicpc.net/problem/14502)     | [B14502cpp](2020-06-30/B14502.cpp)  | ✔    | BFS + Brute Force |
+| Gold 5   | [인구 이동](https://www.acmicpc.net/problem/16234)  | [B16234.cpp](2020-06-30/B16234.cpp) | ✔    |                   |
+| Gold 4   | [행성 연결](https://www.acmicpc.net/problem/16398)  | [B16398.cpp](2020-06-30/B16398.cpp) | 🔎    | Union Find        |
+| Gold 3   | [경사로](https://www.acmicpc.net/problem/14890)     | [B14890.cpp](2020-06-30/B14890.cpp) | ✔    | Simulation        |
+| Gold 1   | [고층 빌딩](https://www.acmicpc.net/problem/1328)   | [B1328.cpp](2020-06-30/B1328.cpp)   | 🔎    | DP                |
 
 
 
@@ -33,18 +53,18 @@
 
 ### 프로그래머스
 
-| 난이도  | 문제                                                         | 풀이                                |      | 비고 |
-| ------- | ------------------------------------------------------------ | ----------------------------------- | ---- | ---- |
-| Level 2 | [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835) |                                     | ❌    |      |
-| Level 2 | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | [P42890.cpp](2020-06-22/P42890.cpp) | 🔎    |      |
+| 난이도  | 문제                                                         | 풀이                              |      | 비고 |
+| ------- | ------------------------------------------------------------ | --------------------------------- | ---- | ---- |
+| Level 2 | [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835) |                                   | ❌    |      |
+| Level 2 | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | [P42890.py](2020-06-22/P42890.py) | 🔎    |      |
 
 ### 백준
 
 | 난이도   | 문제                                                   | 풀이                                |      | 비고                    |
 | -------- | ------------------------------------------------------ | ----------------------------------- | ---- | ----------------------- |
 | Silver 1 | [미로 탐색](https://www.acmicpc.net/problem/2178)      | [B2178.cpp](2020-06-22/B2178.cpp)   | ✔    | BFS                     |
-| Gold 5   | [사다리 조작](https://www.acmicpc.net/problem/15684)   | [B15684.cpp](2020-06-22/B15684.cpp)   | ✔    | DFS + Brute Force       |
-| Gold 3   | [괄호 추가하기](https://www.acmicpc.net/problem/16637) | [B16637.cpp](2020-06-22/B16637.cpp)   | 🔎    | DFS + Brute Force       |
+| Gold 5   | [사다리 조작](https://www.acmicpc.net/problem/15684)   | [B15684.cpp](2020-06-22/B15684.cpp) | ✔    | DFS + Brute Force       |
+| Gold 3   | [괄호 추가하기](https://www.acmicpc.net/problem/16637) | [B16637.cpp](2020-06-22/B16637.cpp) | 🔎    | DFS + Brute Force       |
 | Gold 3   | [아맞다우산](https://www.acmicpc.net/problem/17244)    | [B17244.cpp](2020-06-22/B17244.cpp) | ✔    | BFS + DFS (Permutation) |
 | Gold 2   | [구슬 탈출 2](https://www.acmicpc.net/problem/13460)   |                                     |      |                         |
 | Gold 2   | [친구 네트워크](https://www.acmicpc.net/problem/4195)  |                                     |      |                         |
