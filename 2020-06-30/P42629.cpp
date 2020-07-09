@@ -31,4 +31,4 @@ int solution(int stock, vector<int> dates, vector<int> supplies, int k) {
         if (k <= curr_day) break;
     }
     return answer;
-}
+} 
