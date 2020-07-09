@@ -31,4 +31,4 @@ int solution(int n, int number) {
     // number와 맞는 경우 X : -1 리턴
     if (Answer == MAX) return -1;
     return Answer;
-}
+} 
