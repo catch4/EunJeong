@@ -64,4 +64,4 @@ int main() {
 	}
 	cout << right << endl;
 	return 0;
-}
+} 
