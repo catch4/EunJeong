@@ -29,4 +29,4 @@ def solution(files):
     tmp.sort()  # 문자열-숫자-인덱스 순으로 정렬
     for t in tmp:
         answer.append(files[t[2]])
-    return answer
+    return answer 
