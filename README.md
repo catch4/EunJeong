@@ -17,11 +17,11 @@
 
 | 난이도     | 문제                                                         | 풀이 |      | 비고 |
 | ---------- | ------------------------------------------------------------ | ---- | ---- | ---- |
-| Gold 5     | [개똥벌레](https://www.acmicpc.net/problem/3020)             |      |      |      |
-| Gold 3     | [저울](https://www.acmicpc.net/problem/10159)                |      |      |      |
-| Gold 3     | [부분합](https://www.acmicpc.net/problem/1806)               |      |      |      |
-| Gold 1     | [그림교환](https://www.acmicpc.net/problem/1029)             |      |      |      |
-| Platinum 5 | [히스토그램에서 가장 큰 사각형](https://www.acmicpc.net/problem/6549) |      |      |      |
+| Gold 5     | [개똥벌레](https://www.acmicpc.net/problem/3020)             | [B3020.cpp](2020-07-08/B3020.cpp) |      |  |
+| Gold 3     | [저울](https://www.acmicpc.net/problem/10159)                | [B10159.cpp](2020-07-08/B10159.cpp) |      | Floyd Warshall |
+| Gold 3     | [부분합](https://www.acmicpc.net/problem/1806)               | [B1806.cpp](2020-07-08/B1806.cpp) |      | Two Pointer |
+| Gold 1     | [그림교환](https://www.acmicpc.net/problem/1029)             | [B1029.cpp](2020-07-08/B1029.cpp) |      | DFS + Memoization |
+| Platinum 5 | [히스토그램에서 가장 큰 사각형](https://www.acmicpc.net/problem/6549) |  |      |      |
 
 <br>
 
