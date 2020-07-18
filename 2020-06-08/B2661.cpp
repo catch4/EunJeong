@@ -32,11 +32,11 @@ void solve(int cnt = 0, string str = "") {
 	if (cnt == N) {
 		cout << str << endl;
 		exit(0);
-    // 처음 찾는 것이 결국 최솟값이기 때문에 바로 종료
+    	// 처음 찾는 것이 결국 최솟값이기 때문에 바로 종료
 	}
 
 	for (char c = '1'; c <= '3'; c++) {
-    // 일반 백트래킹에서 Check를 string의 push_back, pop_back으로 해줌
+    	// 일반 백트래킹에서 Check를 string의 push_back, pop_back으로 해줌
 		str.push_back(c);
 		if (isGood(str)) {
 			solve(cnt + 1, str);
