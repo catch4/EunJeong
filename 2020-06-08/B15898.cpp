@@ -115,7 +115,6 @@ int main() {
     return 0;
 }
 
-
 // 처음 solve() 함수. 3개 뽑고 회전수 정하고 위치 선정하는 식.
 // Seq 배열에는 넣을 재료의 순서가 들어있음
 //void solve(int cnt = 0) {
@@ -147,4 +146,4 @@ int main() {
 //            Check[i] = false;
 //        }
 //    }
-//}
+//} 
