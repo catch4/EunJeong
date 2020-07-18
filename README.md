@@ -5,6 +5,28 @@
 
 <br>
 
+## 7월 2주차 - 2020.07.13
+
+### 프로그래머스
+
+| 난이도  | 문제                                                         | 풀이 |      | 비고 |
+| ------- | ------------------------------------------------------------ | ---- | ---- | ---- |
+| Level 2 | [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) |      |      |      |
+| Level 3 | [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) |      |      |      |
+
+### 백준
+
+| 난이도 | 문제                                                    | 풀이                                |      | 비고              |
+| ------ | ------------------------------------------------------- | ----------------------------------- | ---- | ----------------- |
+| Gold 5 | [아기 상어](https://www.acmicpc.net/problem/16236)      |  |      |                   |
+| Gold 4 | [거울 설치](https://www.acmicpc.net/problem/2151)       |    |      |                   |
+| Gold 3 | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937)   | [B1937.cpp](2020-07-13/B1937.cpp)   | ✔    | DFS + Memoization |
+| Gold 2 | [제자리 멀리뛰기](https://www.acmicpc.net/problem/6209) | [B6209.cpp](2020-07-13/B6209.cpp)   | ✔    | Binary Search     |
+| Gold 1 | [등산](https://www.acmicpc.net/problem/16681)           |  |      |                   |
+| Gold 1 | [용이 산다](https://www.acmicpc.net/problem/3430)       |   |      |                   |
+
+<br>
+
 ## 7월 1주차 - 2020.07.08
 
 ### 프로그래머스
@@ -15,13 +37,13 @@
 
 ### 백준
 
-| 난이도     | 문제                                                         | 풀이 |      | 비고 |
-| ---------- | ------------------------------------------------------------ | ---- | ---- | ---- |
-| Gold 5     | [개똥벌레](https://www.acmicpc.net/problem/3020)             | [B3020.cpp](2020-07-08/B3020.cpp) |      |  |
-| Gold 3     | [저울](https://www.acmicpc.net/problem/10159)                | [B10159.cpp](2020-07-08/B10159.cpp) |      | Floyd Warshall |
-| Gold 3     | [부분합](https://www.acmicpc.net/problem/1806)               | [B1806.cpp](2020-07-08/B1806.cpp) |      | Two Pointer |
-| Gold 1     | [그림교환](https://www.acmicpc.net/problem/1029)             | [B1029.cpp](2020-07-08/B1029.cpp) |      | DFS + Memoization |
-| Platinum 5 | [히스토그램에서 가장 큰 사각형](https://www.acmicpc.net/problem/6549) |  |      |      |
+| 난이도     | 문제                                                         | 풀이                                |      | 비고              |
+| ---------- | ------------------------------------------------------------ | ----------------------------------- | ---- | ----------------- |
+| Gold 5     | [개똥벌레](https://www.acmicpc.net/problem/3020)             | [B3020.cpp](2020-07-08/B3020.cpp)   | ✔    |                   |
+| Gold 3     | [저울](https://www.acmicpc.net/problem/10159)                | [B10159.cpp](2020-07-08/B10159.cpp) | 🔎    | Floyd Warshall    |
+| Gold 3     | [부분합](https://www.acmicpc.net/problem/1806)               | [B1806.cpp](2020-07-08/B1806.cpp)   | ✔    | Two Pointer       |
+| Gold 1     | [그림교환](https://www.acmicpc.net/problem/1029)             | [B1029.cpp](2020-07-08/B1029.cpp)   | ✔    | DFS + Memoization |
+| Platinum 5 | [히스토그램에서 가장 큰 사각형](https://www.acmicpc.net/problem/6549) |                                     | ❌    |                   |
 
 <br>
 
