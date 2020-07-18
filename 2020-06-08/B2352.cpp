@@ -35,4 +35,4 @@ int main() {
 
 	cout << idx << endl;
 	return 0;
-}
+} 
