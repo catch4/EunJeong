@@ -9,13 +9,8 @@
 #include <algorithm>
 using namespace std;
 
-const int dir[2][2] = { {-1, -1}, {-1, 1} };
 int N;
 int DP[100001][4];
-
-bool in_range(int x, int y) {
-    return 0 <= x && x < N && 0 <= y && y < 4;
-}
 
 int solution(vector<vector<int>> land) {
     int answer = 0;
