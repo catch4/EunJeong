@@ -21,4 +21,4 @@ def solution(relation):
                     break
             if able:
                 answer.append(i)
-    return len(answer)
+    return len(answer) 
