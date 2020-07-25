@@ -59,4 +59,4 @@ int main(void) {
 	cout << Answer << endl;
 
 	return 0;
-}
+} 
