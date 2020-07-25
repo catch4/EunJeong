@@ -35,4 +35,4 @@ int main() {
 
 	cout << DP[N][L][R] << endl;
 	return 0;
-}
+} 
