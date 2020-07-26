@@ -11,7 +11,7 @@
 
 | 난이도  | 문제                                                         | 풀이                                |      | 비고 |
 | ------- | ------------------------------------------------------------ | ----------------------------------- | ---- | ---- |
-| Level 2 | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) | [P12913.cpp](2020-07-20/P12913.cpp) |      | DP   |
+| Level 2 | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) | [P12913.cpp](2020-07-20/P12913.cpp) | ✔ | DP   |
 | Level 3 | [[카카오 인턴] 경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259) |                                     |      |      |
 
 ### 백준
