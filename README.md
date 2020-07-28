@@ -18,10 +18,10 @@
 
 | 난이도 | 문제                                                | 풀이                              |      | 비고             |
 | ------ | --------------------------------------------------- | --------------------------------- | ---- | ---------------- |
-| Gold 4 | [운동](https://www.acmicpc.net/problem/1956)        |  |     |                  |
+| Gold 4 | [운동](https://www.acmicpc.net/problem/1956)        | [B1956.cpp](2020-07-20/B1956.cpp) | 🔎 | Floyd Warshall |
 | Gold 4 | [선발 명단](https://www.acmicpc.net/problem/3980)   | [B3980.cpp](2020-07-20/B3980.cpp) | ✔    | DFS              |
 | Gold 3 | [다리 만들기](https://www.acmicpc.net/problem/2146) | [B2146.cpp](2020-07-20/B2146.cpp) | ✔    | BFS              |
-| Gold 2 | [소수의 곱](https://www.acmicpc.net/problem/2014)   |  |     |                  |
+| Gold 2 | [소수의 곱](https://www.acmicpc.net/problem/2014)   | [B2014.cpp](2020-07-20/B2014.cpp) | 🔎 | Priority Queue |
 | Gold 2 | [줄 세우기](https://www.acmicpc.net/problem/2252)   | [B2252.cpp](2020-07-20/B2252.cpp) | ✔    | Topological Sort |
 | Gold 1 | [책 나눠주기](https://www.acmicpc.net/problem/9576) | [B9576.cpp](2020-07-20/B9576.cpp) | 🔎    |                  |
 
