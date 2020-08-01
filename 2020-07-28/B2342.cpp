@@ -28,7 +28,7 @@ int solve(int left = 0, int right = 0, int cnt = 0) {
 	if (ret != -1) return ret;
 
 	ret = INF;
-	ret = min(ret, 
+	ret = min(ret,
 		  min(solve(DDR[cnt], right, cnt + 1) + calc(left, DDR[cnt]),
 		      solve(left, DDR[cnt], cnt + 1) + calc(right, DDR[cnt])));
 	return ret;
