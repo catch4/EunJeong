@@ -17,7 +17,7 @@
 
 | 난이도     | 문제                                                         | 풀이                                |      | 비고             |
 | ---------- | ------------------------------------------------------------ | ----------------------------------- | ---- | ---------------- |
-| Gold 4     | [상범 빌딩](https://www.acmicpc.net/problem/6593)            | [B6593.cpp](2020-07-20/B6593.cpp)   | ✔    | BFS              |
+| Gold 4     | [상범 빌딩](https://www.acmicpc.net/problem/6593)            | [B6593.cpp](2020-07-28/B6593.cpp)   | ✔    | BFS              |
 | Gold 4     | [스도쿠](https://www.acmicpc.net/problem/2239)               | [B2239.cpp](2020-07-28/B2239.cpp)   | ✔    | Back tracking    |
 | Gold 3     | [궁금한 민호](https://www.acmicpc.net/problem/1507)          | [B1507.cpp](2020-07-28/B1507.cpp)   | 🔎    | Floyd Warshall   |
 | Gold 2     | [낚시왕](https://www.acmicpc.net/problem/17143)              | [B17143.cpp](2020-07-28/B17143.cpp) | ✔    | Simulation       |
