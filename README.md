@@ -12,6 +12,7 @@
 | 난이도  | 문제                                                         | 풀이                                |      | 비고 |
 | ------- | ------------------------------------------------------------ | ----------------------------------- | ---- | ---- |
 | Level 3 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [P67256.cpp](2020-08-03/P43238.cpp) | ✔    | Binary search |
+| Level 3 | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) |  |  |  |
 
 ### 백준
 
