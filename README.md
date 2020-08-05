@@ -5,6 +5,27 @@
 
 <br>
 
+## 8월 1주차 - 2020.08.03
+
+### 프로그래머스
+
+| 난이도  | 문제                                                         | 풀이                                |      | 비고 |
+| ------- | ------------------------------------------------------------ | ----------------------------------- | ---- | ---- |
+| Level 3 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [P67256.cpp](2020-08-03/P43238.cpp) | ✔    | Binary search |
+
+### 백준
+
+| 난이도 | 문제                                                  | 풀이                                |     | 비고 |
+| ------ | ----------------------------------------------------- | ----------------------------------- | --- | ---- |
+| Gold 5 | [되돌리기](https://www.acmicpc.net/problem/1360)      | [B1360.cpp](2020-08-03/B1360.cpp)   | ✔   |      |
+| Gold 4 | [행렬 제곱](https://www.acmicpc.net/problem/10830)    |    |     |      |
+| Gold 3 | [전화번호 목록](https://www.acmicpc.net/problem/5052) |    |     |      |
+| Gold 3 | [트리의 지름](https://www.acmicpc.net/problem/1167)   |    |     |      |
+| Gold 2 | [행성 터널](https://www.acmicpc.net/problem/2887)     |    |     |      |
+| Gold 1 | [수영장 만들기](https://www.acmicpc.net/problem/1113) |                                     |     |      |
+
+<br>
+
 ## 7월 4주차 - 2020.07.28
 
 ### 프로그래머스
@@ -19,7 +40,7 @@
 | ---------- | ------------------------------------------------------------ | ----------------------------------- | ---- | ---------------- |
 | Gold 4     | [상범 빌딩](https://www.acmicpc.net/problem/6593)            | [B6593.cpp](2020-07-28/B6593.cpp)   | ✔    | BFS              |
 | Gold 4     | [스도쿠](https://www.acmicpc.net/problem/2239)               | [B2239.cpp](2020-07-28/B2239.cpp)   | ✔    | Back tracking    |
-| Gold 3     | [궁금한 민호](https://www.acmicpc.net/problem/1507)          | [B1507.cpp](2020-07-28/B1507.cpp)   | 🔎    | Floyd Warshall   |
+| Gold 3     | [궁금한 민호](https://www.acmicpc.net/problem/1507)          | [B1507.cpp](2020-07-28/B1507.cpp)   | ✔    | Floyd Warshall   |
 | Gold 2     | [낚시왕](https://www.acmicpc.net/problem/17143)              | [B17143.cpp](2020-07-28/B17143.cpp) | ✔    | Simulation       |
 | Gold 1     | [Dance Dance Revolution](https://www.acmicpc.net/problem/2342) | [B2342.cpp](2020-07-28/B2342.cpp)   | ✔    | DP              |
 | Platinum 5 | [Boggle](https://www.acmicpc.net/problem/9202)               |                                     | ❌    |                  |
