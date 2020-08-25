@@ -26,7 +26,7 @@ bool is_right(string& str) {
 }
 
 // u가 올바른 문자열이 아닌 경우 앞뒤를 자르고 괄호를 바꾸는 함수
-string makeStr(string u) {
+string make_str(string u) {
     if (u.size() <= 2) return "";
     string ret = "";
     for (int i = 1; i < u.size() - 1; i++) {
@@ -51,7 +51,7 @@ string recur(string p) {
             return u + recur(v);
         // u가 올바른 문자열이 아닌 경우
         else
-            return '(' + recur(v) + ')' + makeStr(u);
+            return '(' + recur(v) + ')' + make_str(u);
     }
     return "";
 }
