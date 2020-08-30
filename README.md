@@ -5,25 +5,90 @@
 
 <br>
 
-## 8월 1주차 - 2020.08.03
+## 8월 4주차 - 2020.08.24
 
 ### 프로그래머스
 
 | 난이도  | 문제                                                         | 풀이                                |      | 비고 |
 | ------- | ------------------------------------------------------------ | ----------------------------------- | ---- | ---- |
-| Level 3 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [P67256.cpp](2020-08-03/P43238.cpp) | ✔    | Binary search |
-| Level 3 | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) |  |  |  |
+| Level 2 | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | [P60058.cpp](2020-08-24/P60058.cpp) | ✔    |      |
+| Level 3 | [블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063) |                                     |      |      |
 
 ### 백준
 
-| 난이도 | 문제                                                  | 풀이                                |     | 비고 |
-| ------ | ----------------------------------------------------- | ----------------------------------- | --- | ---- |
-| Gold 5 | [되돌리기](https://www.acmicpc.net/problem/1360)      | [B1360.cpp](2020-08-03/B1360.cpp)   | ✔   |      |
-| Gold 4 | [행렬 제곱](https://www.acmicpc.net/problem/10830)    |    |     |      |
-| Gold 3 | [전화번호 목록](https://www.acmicpc.net/problem/5052) |    |     |      |
-| Gold 3 | [트리의 지름](https://www.acmicpc.net/problem/1167)   |    |     |      |
-| Gold 2 | [행성 터널](https://www.acmicpc.net/problem/2887)     |    |     |      |
-| Gold 1 | [수영장 만들기](https://www.acmicpc.net/problem/1113) |                                     |     |      |
+| 난이도     | 문제                                                   | 풀이                                |      | 비고     |
+| ---------- | ------------------------------------------------------ | ----------------------------------- | ---- | -------- |
+| Gold 5     | [피자 굽기](https://www.acmicpc.net/problem/1756)      | [B1756.cpp](2020-08-24/B1756.cpp)   | ✔    |          |
+| Gold 4     | [카카오머니](https://www.acmicpc.net/problem/15998)    | [B15998.cpp](2020-08-24/B15998.cpp) | 🔎    |          |
+| Gold 3     | [앱](https://www.acmicpc.net/problem/7579)             | [B7579.cpp](2020-08-24/B7579.cpp)   | ✔    | DP       |
+| Gold 2     | [주사위 윷놀이](https://www.acmicpc.net/problem/17825) |                                     |      |          |
+| Gold 1     | [바이러스](https://www.acmicpc.net/problem/7575)       | [B7575.cpp](2020-08-24/B7575.cpp)   | 🔎    | KMP      |
+| Platinum 5 | [거의 최단 경로](https://www.acmicpc.net/problem/5719) | [B5719.cpp](2020-08-24/B5719.cpp)   | 🔎    | Djikstra |
+
+<br>
+
+## 8월 3주차 - 2020.08.18
+
+### 프로그래머스
+
+| 난이도  | 문제                                                         | 풀이 |      | 비고 |
+| ------- | ------------------------------------------------------------ | ---- | ---- | ---- |
+| Level 2 | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981) |      |      |      |
+
+### 백준
+
+| 난이도     | 문제                                                  | 풀이                              |      | 비고          |
+| ---------- | ----------------------------------------------------- | --------------------------------- | ---- | ------------- |
+| Gold 5     | [거짓말](https://www.acmicpc.net/problem/1043)        | [B1043.cpp](2020-08-18/B1043.cpp) | ✔    |               |
+| Gold 4     | [문자열 폭발](https://www.acmicpc.net/problem/9935)   | [B9935.cpp](2020-08-18/B9935.cpp) | ✔    |               |
+| Gold 2     | [Cubeditor](https://www.acmicpc.net/problem/1701)     |                                   |      |               |
+| Gold 2     | [빵집](https://www.acmicpc.net/problem/3109)          | [B3109.cpp](2020-08-18/B3109.cpp) | ✔    | DFS           |
+| Gold 1     | [배열에서 이동](https://www.acmicpc.net/problem/1981) | [B1981.cpp](2020-08-18/B1981.cpp) | 🔎    | Binary search |
+| Platinum 5 | [경찰차](https://www.acmicpc.net/problem/2618)        |                                   |      |               |
+
+<br>
+
+## 8월 2주차 - 2020.08.10
+
+### 프로그래머스
+
+| 난이도  | 문제                                                         | 풀이 |      | 비고 |
+| ------- | ------------------------------------------------------------ | ---- | ---- | ---- |
+| Level 2 | [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) |      |      |      |
+| Level 3 | [가장 긴 펠린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904) |      |      |      |
+
+### 백준
+
+| 난이도 | 문제                                                    | 풀이 |      | 비고 |
+| ------ | ------------------------------------------------------- | ---- | ---- | ---- |
+| Gold 4 | [뒤집기](https://www.acmicpc.net/problem/15999)         |      |      |      |
+| Gold 3 | [행운의 문자열](https://www.acmicpc.net/problem/1342)   |      |      |      |
+| Gold 3 | [가스관](https://www.acmicpc.net/problem/2931)          |      |      |      |
+| Gold 1 | [팰린드롬 분할](https://www.acmicpc.net/problem/1509)   |      |      |      |
+| Gold 1 | [오아시스 재결합](https://www.acmicpc.net/problem/3015) |      |      |      |
+| Gold 1 | [디스크 트리](https://www.acmicpc.net/problem/7432)     |      |      |      |
+
+<br>
+
+## 8월 1주차 - 2020.08.03
+
+### 프로그래머스
+
+| 난이도  | 문제                                                         | 풀이                                |      | 비고          |
+| ------- | ------------------------------------------------------------ | ----------------------------------- | ---- | ------------- |
+| Level 3 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [P67256.cpp](2020-08-03/P43238.cpp) | ✔    | Binary search |
+| Level 3 | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) |                                     |      |               |
+
+### 백준
+
+| 난이도 | 문제                                                  | 풀이                              |      | 비고      |
+| ------ | ----------------------------------------------------- | --------------------------------- | ---- | --------- |
+| Gold 5 | [되돌리기](https://www.acmicpc.net/problem/1360)      | [B1360.cpp](2020-08-03/B1360.cpp) | ✔    |           |
+| Gold 4 | [행렬 제곱](https://www.acmicpc.net/problem/10830)    |                                   |      |           |
+| Gold 3 | [전화번호 목록](https://www.acmicpc.net/problem/5052) |                                   |      |           |
+| Gold 3 | [트리의 지름](https://www.acmicpc.net/problem/1167)   | [B1167.cpp](2020-08-03/B1167.cpp) | ✔    | DFS / BFS |
+| Gold 2 | [행성 터널](https://www.acmicpc.net/problem/2887)     |                                   |      |           |
+| Gold 1 | [수영장 만들기](https://www.acmicpc.net/problem/1113) |                                   |      |           |
 
 <br>
 
@@ -37,14 +102,14 @@
 
 ### 백준
 
-| 난이도     | 문제                                                         | 풀이                                |      | 비고             |
-| ---------- | ------------------------------------------------------------ | ----------------------------------- | ---- | ---------------- |
-| Gold 4     | [상범 빌딩](https://www.acmicpc.net/problem/6593)            | [B6593.cpp](2020-07-28/B6593.cpp)   | ✔    | BFS              |
-| Gold 4     | [스도쿠](https://www.acmicpc.net/problem/2239)               | [B2239.cpp](2020-07-28/B2239.cpp)   | ✔    | Back tracking    |
-| Gold 3     | [궁금한 민호](https://www.acmicpc.net/problem/1507)          | [B1507.cpp](2020-07-28/B1507.cpp)   | ✔    | Floyd Warshall   |
-| Gold 2     | [낚시왕](https://www.acmicpc.net/problem/17143)              | [B17143.cpp](2020-07-28/B17143.cpp) | ✔    | Simulation       |
-| Gold 1     | [Dance Dance Revolution](https://www.acmicpc.net/problem/2342) | [B2342.cpp](2020-07-28/B2342.cpp)   | ✔    | DP              |
-| Platinum 5 | [Boggle](https://www.acmicpc.net/problem/9202)               |                                     | ❌    |                  |
+| 난이도     | 문제                                                         | 풀이                                |      | 비고           |
+| ---------- | ------------------------------------------------------------ | ----------------------------------- | ---- | -------------- |
+| Gold 4     | [상범 빌딩](https://www.acmicpc.net/problem/6593)            | [B6593.cpp](2020-07-28/B6593.cpp)   | ✔    | BFS            |
+| Gold 4     | [스도쿠](https://www.acmicpc.net/problem/2239)               | [B2239.cpp](2020-07-28/B2239.cpp)   | ✔    | Back tracking  |
+| Gold 3     | [궁금한 민호](https://www.acmicpc.net/problem/1507)          | [B1507.cpp](2020-07-28/B1507.cpp)   | ✔    | Floyd Warshall |
+| Gold 2     | [낚시왕](https://www.acmicpc.net/problem/17143)              | [B17143.cpp](2020-07-28/B17143.cpp) | ✔    | Simulation     |
+| Gold 1     | [Dance Dance Revolution](https://www.acmicpc.net/problem/2342) | [B2342.cpp](2020-07-28/B2342.cpp)   | ✔    | DP             |
+| Platinum 5 | [Boggle](https://www.acmicpc.net/problem/9202)               |                                     | ❌    |                |
 
 <br>
 
@@ -54,17 +119,17 @@
 
 | 난이도  | 문제                                                         | 풀이                                |      | 비고 |
 | ------- | ------------------------------------------------------------ | ----------------------------------- | ---- | ---- |
-| Level 2 | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) | [P12913.cpp](2020-07-20/P12913.cpp) | ✔ | DP   |
+| Level 2 | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) | [P12913.cpp](2020-07-20/P12913.cpp) | ✔    | DP   |
 | Level 3 | [[카카오 인턴] 경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259) |                                     |      |      |
 
 ### 백준
 
 | 난이도 | 문제                                                | 풀이                              |      | 비고             |
 | ------ | --------------------------------------------------- | --------------------------------- | ---- | ---------------- |
-| Gold 4 | [운동](https://www.acmicpc.net/problem/1956)        | [B1956.cpp](2020-07-20/B1956.cpp) | 🔎 | Floyd Warshall |
+| Gold 4 | [운동](https://www.acmicpc.net/problem/1956)        | [B1956.cpp](2020-07-20/B1956.cpp) | 🔎    | Floyd Warshall   |
 | Gold 4 | [선발 명단](https://www.acmicpc.net/problem/3980)   | [B3980.cpp](2020-07-20/B3980.cpp) | ✔    | DFS              |
 | Gold 3 | [다리 만들기](https://www.acmicpc.net/problem/2146) | [B2146.cpp](2020-07-20/B2146.cpp) | ✔    | BFS              |
-| Gold 2 | [소수의 곱](https://www.acmicpc.net/problem/2014)   | [B2014.cpp](2020-07-20/B2014.cpp) | 🔎 | Priority Queue |
+| Gold 2 | [소수의 곱](https://www.acmicpc.net/problem/2014)   | [B2014.cpp](2020-07-20/B2014.cpp) | 🔎    | Priority Queue   |
 | Gold 2 | [줄 세우기](https://www.acmicpc.net/problem/2252)   | [B2252.cpp](2020-07-20/B2252.cpp) | ✔    | Topological Sort |
 | Gold 1 | [책 나눠주기](https://www.acmicpc.net/problem/9576) | [B9576.cpp](2020-07-20/B9576.cpp) | 🔎    |                  |
 
@@ -83,12 +148,12 @@
 
 | 난이도 | 문제                                                    | 풀이                                |      | 비고              |
 | ------ | ------------------------------------------------------- | ----------------------------------- | ---- | ----------------- |
-| Gold 5 | [아기 상어](https://www.acmicpc.net/problem/16236)      | [B16236.cpp](2020-07-13/B16236.cpp) | ✔ |                   |
-| Gold 4 | [거울 설치](https://www.acmicpc.net/problem/2151)       | [B2151.cpp](2020-07-13/B2151.cpp) | 🔎 |                   |
+| Gold 5 | [아기 상어](https://www.acmicpc.net/problem/16236)      | [B16236.cpp](2020-07-13/B16236.cpp) | ✔    |                   |
+| Gold 4 | [거울 설치](https://www.acmicpc.net/problem/2151)       | [B2151.cpp](2020-07-13/B2151.cpp)   | 🔎    |                   |
 | Gold 3 | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937)   | [B1937.cpp](2020-07-13/B1937.cpp)   | ✔    | DFS + Memoization |
 | Gold 2 | [제자리 멀리뛰기](https://www.acmicpc.net/problem/6209) | [B6209.cpp](2020-07-13/B6209.cpp)   | ✔    | Binary Search     |
-| Gold 1 | [등산](https://www.acmicpc.net/problem/16681)           |  |      |                   |
-| Gold 1 | [용이 산다](https://www.acmicpc.net/problem/3430)       |   |      |                   |
+| Gold 1 | [등산](https://www.acmicpc.net/problem/16681)           |                                     |      |                   |
+| Gold 1 | [용이 산다](https://www.acmicpc.net/problem/3430)       |                                     |      |                   |
 
 <br>
 
@@ -108,7 +173,7 @@
 | Gold 3     | [저울](https://www.acmicpc.net/problem/10159)                | [B10159.cpp](2020-07-08/B10159.cpp) | 🔎    | Floyd Warshall    |
 | Gold 3     | [부분합](https://www.acmicpc.net/problem/1806)               | [B1806.cpp](2020-07-08/B1806.cpp)   | ✔    | Two Pointer       |
 | Gold 1     | [그림교환](https://www.acmicpc.net/problem/1029)             | [B1029.cpp](2020-07-08/B1029.cpp)   | ✔    | DFS + Memoization |
-| Platinum 5 | [히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549) |  | ❌    |                   |
+| Platinum 5 | [히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549) |                                     | ❌    |                   |
 
 <br>
 
@@ -131,8 +196,6 @@
 | Gold 4   | [행성 연결](https://www.acmicpc.net/problem/16398)  | [B16398.cpp](2020-06-30/B16398.cpp) | 🔎    | Union Find        |
 | Gold 3   | [경사로](https://www.acmicpc.net/problem/14890)     | [B14890.cpp](2020-06-30/B14890.cpp) | ✔    | Simulation        |
 | Gold 1   | [고층 빌딩](https://www.acmicpc.net/problem/1328)   | [B1328.cpp](2020-06-30/B1328.cpp)   | 🔎    | DP                |
-
-
 
 <br>
 
