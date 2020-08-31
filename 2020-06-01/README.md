@@ -13,7 +13,7 @@
 | 난이도 | 문제                                                  | 풀이                                |      | 비고                |
 | ------ | ----------------------------------------------------- | ----------------------------------- | ---- | ------------------- |
 | Gold 5 | [리모컨](https://www.acmicpc.net/problem/1107)        | [B1107.cpp](B1107.cpp)   | ✔    |                     |
-| Gold 5 | [로봇 청소기](https://www.acmicpc.net/problem/14503)  | [B14503.cpp](B14503.cpp) | ✔    |                     |
+| Gold 5 | [로봇 청소기](https://www.acmicpc.net/problem/14503)  | [B14503.cpp](B14503.cpp) | ✔    | Simulation |
 | Gold 4 | [중량제한](https://www.acmicpc.net/problem/1939)      | [B1939.cpp](B1939.cpp)   | ✔    | Binary Search + BFS |
 | Gold 4 | [돌다리 건너기](https://www.acmicpc.net/problem/2602) | [B2602.cpp](B2602.cpp)   | ✔    | DFS + Memoization   |
 | Gold 1 | [날카로운 눈](https://www.acmicpc.net/problem/1637)   | [B1637.cpp](B1637.cpp)   | 🔎    | Binary Search       |
