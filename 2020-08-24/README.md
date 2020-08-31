@@ -5,7 +5,7 @@
 | 난이도  | 문제                                                         | 풀이                                |      | 비고 |
 | ------- | ------------------------------------------------------------ | ----------------------------------- | ---- | ---- |
 | Level 2 | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | [P60058.cpp](P60058.cpp) | ✔    |      |
-| Level 3 | [블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063) |                                     |      |      |
+| Level 3 | [블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063) |                                     | ❌ |      |
 
 ### 백준
 
