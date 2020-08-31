@@ -12,7 +12,7 @@
 // [1] 다익스트라에서 dist 값이 int의 범위를 넘는다. => long long으로 변경
 // [2] 처음에 INF의 값을 최댓값과 같게 하면 안된다. (INF와 비교하기 때문) => INF에 +1
 // [3] while(left < right)로 하면 left = 1, right = 1인 경우에 아예 검사를 안하고
-//	   바로 0을 뱉아서 틀렸다. (100%까지 가서 틀린 이유^.^) => while(left <= right)로
+//     바로 0을 뱉아서 틀렸다. (100%까지 가서 틀린 이유^.^) => while(left <= right)로
 
 #include <iostream>
 #include <vector>
