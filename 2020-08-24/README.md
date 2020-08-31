@@ -13,7 +13,7 @@
 | ---------- | ------------------------------------------------------ | ------------------------ | ---- | -------- |
 | Gold 5     | [피자 굽기](https://www.acmicpc.net/problem/1756)      | [B1756.cpp](B1756.cpp)   | ✔    |          |
 | Gold 4     | [카카오머니](https://www.acmicpc.net/problem/15998)    | [B15998.cpp](B15998.cpp) | ✔    |          |
-| Gold 3     | [앱](https://www.acmicpc.net/problem/7579)             | [B7579.cpp](B7579.cpp)   | ✔    | DP       |
+| Gold 3     | [앱](https://www.acmicpc.net/problem/7579)             | [B7579.cpp](B7579.cpp)   | ✔    | DP |
 | Gold 2     | [주사위 윷놀이](https://www.acmicpc.net/problem/17825) | [B17825.cpp](B17825.cpp) | ✔    | Back tracking |
-| Gold 1     | [바이러스](https://www.acmicpc.net/problem/7575)       | [B7575.cpp](B7575.cpp)   | 🔎    | KMP      |
+| Gold 1     | [바이러스](https://www.acmicpc.net/problem/7575)       | [B7575.cpp](B7575.cpp)   | 🔎    | KMP     |
 | Platinum 5 | [거의 최단 경로](https://www.acmicpc.net/problem/5719) | [B5719.cpp](B5719.cpp)   | 🔎    | Djikstra |
