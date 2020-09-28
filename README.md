@@ -5,6 +5,15 @@
 
 <br>
 
+## 9월 4주차 - 2020.09.28 (현장풀이)
+### 백준
+| 난이도 | 문제 | 풀이 | | 비고 |
+| --- | --- | --- | --- | --- |
+| Gold 4 | [연구소 3](https://www.acmicpc.net/problem/17142) | (B17142.cpp)[2020-09-28/B17142.cpp] | ✔ | DFS + BFS |
+| Gold 4 | [도시 분할 계획](https://www.acmicpc.net/problem/1647) | (B17142.cpp)[2020-09-28/B1647.cpp] | ✔ | Minimum Spanning Tree |
+
+<br>
+
 ## 8월 5주차 - 2020.08.31
 
 ### 프로그래머스
