@@ -77,7 +77,7 @@
 | Platinum 5 | [경찰차](https://www.acmicpc.net/problem/2618)        |                                   |      |               |
 
 <br>
-
+<!--
 ## 8월 2주차 - 2020.08.10
 
 ### 프로그래머스
@@ -99,7 +99,7 @@
 | Gold 1 | [디스크 트리](https://www.acmicpc.net/problem/7432)     |      |      |      |
 
 <br>
-
+-->
 ## 8월 1주차 - 2020.08.03
 
 ### 프로그래머스
