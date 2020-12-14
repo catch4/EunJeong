@@ -26,20 +26,14 @@ int main() {
 	for (int i = 0; i < 2 * N; i++) {
 		cin >> D[i];
 	}
+	
 	int pos = 0, answer = 0;
 	while (!is_done()) {
 		answer++;
-		cout << "[ " << answer << "단계 ]" << endl;
 
 		//1. 한 칸 회전
 		pos--;
 		if (pos < 0) pos = (2 * N) - 1;
-
-		cout << "[ 현재 컨베이어 상태 (시작 위치: " << pos << ") ]" << endl;
-		for (int i = 0; i < N; i++) {
-			cout << D[(pos + i) % (2 * N)] << " ";
-		}
-		cout << endl;
 
 		// 2. 로봇 이동
 		vector<int> tmp;
@@ -68,12 +62,6 @@ int main() {
 			D[pos]--;
 			Robot.push_back(pos);
 		}
-
-		cout << "현재 로봇 위치" << endl;
-		for (auto r : Robot) {
-			cout << r << " ";
-		}
-		cout << endl;
 	}
 	cout << answer << endl;
 	return 0;
