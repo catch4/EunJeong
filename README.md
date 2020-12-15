@@ -5,12 +5,21 @@
 
 <br>
 
+## 12월 2주차 - 2020.12.14 (현장풀이)
+### 백준
+| 난이도 | 문제 | 풀이 | | 비고 |
+| --- | --- | --- | --- | --- |
+| Silver 1 | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | [B20055.cpp](2020-12-14/B20055.cpp) | ✔ | Simulation |
+| Gold 4 | [당근 훔쳐 먹기](https://www.acmicpc.net/problem/18234) |  | ❌ |  |
+
+<br>
+
 ## 12월 1주차 - 2020.12.07 (현장풀이)
 ### 백준
 | 난이도 | 문제 | 풀이 | | 비고 |
 | --- | --- | --- | --- | --- |
 | Silver 1 | [신입사원](https://www.acmicpc.net/problem/1946) | [B1946.cpp](2020-12-07/B1946.cpp) | ✔ | Sort + Greedy |
-| Gold 4 | [세 용액](https://www.acmicpc.net/problem/2473) | [B2473.cpp](2020-09-28/B2473.cpp) |  |  |
+| Gold 4 | [세 용액](https://www.acmicpc.net/problem/2473) |  | ❌ |  |
 
 <br>
 
