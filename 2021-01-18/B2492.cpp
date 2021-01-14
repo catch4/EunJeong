@@ -37,7 +37,7 @@ int main() {
 	int answer = 0, ans_x = 0, ans_y = 0;
 	for (auto x : Gems) {
 		for (auto y : Gems) {
-      // K를 더해서 범위가 넘어갈 경우 N - K, M - K 도 확인
+			// K를 더해서 범위가 넘어갈 경우 N - K, M - K 도 확인
 			int xx = (N < x.first + K) ? N - K : x.first;
 			int yy = (M < y.second + K) ? M - K : y.second;
 			int tmp = count(xx, yy);
